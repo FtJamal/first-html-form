@@ -1,0 +1,11 @@
+#one {
+    background-color: rgb(235, 247, 247);
+}
+.one{color: rgb(182, 119, 245);}
+.two{color: rgb(10, 38, 122);
+font-family: Arial, Helvetica, sans-serif;
+font-style: italic;
+font-size: larger;}
+#two{background-color: rgb(244, 248, 244);}
+#top{background-color: rgb(251, 241, 251);}
+*{color: rgb(107, 107, 248);}
